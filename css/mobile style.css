@@ -1,0 +1,104 @@
+/* mobile css start */
+
+@media only screen and (max-width:767px) {
+
+    .header_page .col-md-8 {
+      display: none;
+  }
+  
+  .header_page .col-md-2 {
+    width: 50%;
+  }
+  
+  .header_page .full_header_page {
+    padding: 20px 0;
+  }
+  
+  .header_page .logo img {
+    width: 80%;
+  }
+  
+  .header_page .btned a.btns {
+    padding: 10px 12px;
+    font-size: 10px;
+  }
+  
+  .header_page .row {
+    align-items: inherit;
+  }
+  
+  .slide img {
+    width: 120px;
+  }
+  
+  .slider .icon i {
+    font-size: 12px;
+    margin-bottom: 6px;
+  }
+  
+  .slide h2 {
+    font-size: 30px;
+  }
+  
+  .slide-content {
+    width: 100%;
+    top: 46%;
+  }
+  
+  .slide p {
+    width: 100%;
+  }
+  
+  .slide a.link {
+    padding: 8px 15px;
+    font-size: 12px;
+  }
+  
+  .content .content-1 .title p {
+    font-weight: 500;
+    opacity: .8;
+  }
+  
+  .content .txt h3.hdng {
+    font-size: 25px;
+    margin-bottom: 15px;
+  }
+  
+  .content .txt p.heading-title {
+    font-size: 15px;
+    color: #606060;
+  }
+  
+  .accomotaiton .fex h2 {
+    font-size: 38px;
+  }
+  
+  video {
+    height: 100%;
+  }
+  
+  .testi_item {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .testi_item h3.disc {
+    font-size: 26px;
+    line-height: 1.4em;
+  }
+  
+  .last .row {
+    gap: 30px;
+  }
+  
+  .last-footer .full-last-footer p.heading-title {
+      font-weight: 500;
+  }
+  
+  .last .lst-txt p.elementor-heading-titles {
+      font-weight: 500;
+  }
+  
+  }
+
+  /* mobile css end */

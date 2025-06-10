@@ -1,0 +1,80 @@
+/* tab css start */
+
+@media only screen and (min-width: 760px) and (max-width:1024px) {
+
+	section.header_page {
+		overflow: hidden;
+	}
+	
+	.header_page .col-md-8 {
+		display: none;
+	}
+	
+	.header_page .col-md-2 {
+	  width: 50%;
+	}
+	
+	.header_page .full_header_page {
+	  padding: 20px 0;
+	}
+	
+	.header_page .logo img {
+		width: 60%;
+	}
+	
+	.header_page .btned a.btns {
+	  padding: 10px 12px;
+	  font-size: 20px;
+	}
+	
+	.header_page .row {
+	  align-items: inherit;
+	}
+	
+	.header_page .btned {
+		text-align: end;
+	}
+
+	.slide-content {
+		width: 100%;
+	}
+
+	.slide h2 {
+		font-size: 52px;
+	}
+	
+	.slide p {
+		width: 70%;
+		margin-bottom: 50px;
+	}
+
+	.content .txt h3.hdng {
+		font-size: 45px;
+	}
+	
+	.content .txt p.heading-title {
+		font-size: 16px;
+	}
+
+	video {
+		height: 100%;
+	}
+	
+	.last .col-md-2 {
+		width: 25%;
+	}
+	
+	.last .col-md-8 {
+		width: 50%;
+	}
+	
+	.last .full-last {
+		padding: 60px 0;
+	}
+
+    .accomotaiton .item-inner .pricing-info {
+        margin: 0;
+    }
+}
+
+/* tab css end */
